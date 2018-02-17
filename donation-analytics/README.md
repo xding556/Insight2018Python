@@ -1,0 +1,1 @@
+Please put the input data file named itcont.txt in the file directory input and execute run.sh to execute the Python code to process the contribution data and generate output data to file named repeat_donors.txt in the output file directory.
